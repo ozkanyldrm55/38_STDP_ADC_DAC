@@ -1,0 +1,7 @@
+main.c:10:6:GPIO_Config	8	static
+main.c:30:6:ADC_Config	8	static
+main.c:45:6:DAC1_Config	8	static
+main.c:60:10:Read_ADC	8	static
+main.c:71:5:main	8	static
+main.c:87:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:96:10:EVAL_AUDIO_GetSampleCallBack	4	static
