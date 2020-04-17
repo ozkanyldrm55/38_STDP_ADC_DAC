@@ -1,4 +1,6 @@
-/* Potansiyometre ile ADC okumasi yapiliyor ve okunan degerler DAC a aktariliyor */
+/* Potansiyometre ile ADC okumasi yapiliyor ve okunan degerler DAC a aktariliyor 
+   potansiyometreden aldigimiz degere gore led in parlakligi degisecektir */
+
 #include "stm32f4xx.h"
 #include "stm32f4_discovery.h"
 
